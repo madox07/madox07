@@ -1,57 +1,89 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6A0DAD,50:8A2BE2,100:4B0082&text=Yasin%20Arafat&fontColor=FFFFFF&fontSize=62&fontAlignY=36&desc=Madox&descAlignY=58&descAlign=50&descSize=30&animation=fadeIn"/>
+  <img src="https://raw.githubusercontent.com/madox07/madox07/main/assets/profile.png" width="180" alt="Yasin Arafat"/>
+</p>
+
+<h1 align="center">Yasin Arafat</h1>
+
+<h3 align="center">⚡ Madox ⚡</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&width=500&lines=Learning+Python+%F0%9F%90%8D"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=2500&color=C084FC&center=true&vCenter=true&width=500&lines=Learning+Python+%F0%9F%90%8D"/>
+  <img src="https://komarev.com/ghpvc/?username=madox07&style=for-the-badge&color=7B2CBF"/>
 </p>
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
 ```python
 class YasinArafat:
+
     nickname = "Madox"
+
     username = "madox07"
 
-    currently_learning = "Python"
+    currently_learning = [
+        "Python"
+    ]
 
-    goal = "Become a Python Backend Developer"
+    goal = "Python Backend Developer"
+
+    motto = "Learn • Build • Improve"
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Current Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
+
+<img src="https://skillicons.dev/icons?i=python,git,github&perline=6"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=madox07&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madox07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=madox07&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madox07&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=madox07&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=madox07&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 Current Goals
 
-- 🐍 Master Python Fundamentals
-- 📂 Build Beginner Projects
-- 🌐 Learn Backend Development
-- 🚀 Contribute to Open Source
+🐍 Learn Python
+
+📂 Build Useful Projects
+
+🚀 Become a Python Backend Developer
+
+🌍 Contribute to Open Source
 
 ---
 
 <p align="center">
-  <strong>Thanks for visiting my profile! ⭐</strong>
+
+<i>"Every expert was once a beginner."</i>
+
 </p>
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>

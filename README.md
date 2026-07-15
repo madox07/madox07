@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Yasin Arafat 👋</h1>
 
-<!--
-**madox07/madox07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Learning Python • Linux • Open Source</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>Code. Learn. Build. Repeat.</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **Python**
+- 🐧 Exploring **Linux & Open Source**
+- 📚 Improving my programming skills every day
+- 🎯 Goal: Become a **Python Backend Developer**
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Learn Python Fundamentals
+- 🔄 Build Real-World Projects
+- 🔄 Learn Git & GitHub
+- 🔄 Explore Linux
+- 🔄 Contribute to Open Source
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madox07&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=madox07&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>

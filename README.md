@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A0DAD,50:8A2BE2,100:4B0082&text=Yasin%20Arafat&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Madox&descAlignY=62&descAlign=50&descSize=26&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6A0DAD,50:8A2BE2,100:4B0082&text=Yasin%20Arafat&fontColor=FFFFFF&fontSize=62&fontAlignY=36&desc=Madox&descAlignY=58&descAlign=50&descSize=30&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=2500&color=8A2BE2&center=true&vCenter=true&width=300&lines=Learning+Python+%F0%9F%90%8D"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=2500&color=C084FC&center=true&vCenter=true&width=500&lines=Learning+Python+%F0%9F%90%8D"/>
 </p>
 
 ---
@@ -22,7 +22,7 @@ class YasinArafat:
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
@@ -43,4 +43,15 @@ class YasinArafat:
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+## 🎯 2026 Goals
+
+- 🐍 Master Python Fundamentals
+- 📂 Build Beginner Projects
+- 🌐 Learn Backend Development
+- 🚀 Contribute to Open Source
+
+---
+
+<p align="center">
+  <strong>Thanks for visiting my profile! ⭐</strong>
+</p>

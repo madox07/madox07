@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A0DAD,50:8A2BE2,100:4B0082&text=MADOX&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Yasin%20Arafat&descAlignY=60&descAlign=50&descSize=24&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A0DAD,50:8A2BE2,100:4B0082&text=Yasin%20Arafat&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Madox&descAlignY=62&descAlign=50&descSize=26&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=2500&color=8A2BE2&center=true&vCenter=true&width=350&lines=Learning+Python"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=2500&color=8A2BE2&center=true&vCenter=true&width=300&lines=Learning+Python+%F0%9F%90%8D"/>
 </p>
 
 ---
@@ -11,8 +11,8 @@
 ## 👋 About Me
 
 ```python
-class Madox:
-    name = "Yasin Arafat"
+class YasinArafat:
+    nickname = "Madox"
     username = "madox07"
 
     currently_learning = "Python"
@@ -22,7 +22,7 @@ class Madox:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode"/>

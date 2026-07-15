@@ -1,48 +1,31 @@
-<h1 align="center">Hi 👋, I'm Yasin Arafat</h1>
-
-<h3 align="center">Known online as <b>Madox</b> ⚡</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A0DAD,50:8A2BE2,100:4B0082&text=MADOX&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Yasin%20Arafat&descAlignY=60&descAlign=50&descSize=24&animation=fadeIn"/>
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Learning+Python...;Building+My+Future...;One+Commit+At+A+Time."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=2500&color=8A2BE2&center=true&vCenter=true&width=350&lines=Learning+Python"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
 ```python
 class Madox:
     name = "Yasin Arafat"
     username = "madox07"
 
-    currently_learning = [
-        "Python",
-        "Git",
-        "GitHub"
-    ]
+    currently_learning = "Python"
 
     goal = "Become a Python Backend Developer"
-
-    motto = "Stay Curious. Keep Building."
 ```
 
 ---
 
-## 🚀 Current Focus
-
-- 🌱 Learning Python
-- 📚 Improving problem-solving
-- 💻 Building beginner projects
-- ⚡ Learning Git & GitHub
-
----
-
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&perline=4"/>
-
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
 </p>
 
 ---
@@ -50,46 +33,14 @@ class Madox:
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=madox07&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madox07&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=madox07&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madox07&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 🔥 Contribution Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=madox07&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=madox07&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/madox07/madox07/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Learn Python
-- ⏳ Build 10+ Projects
-- ⏳ Learn Backend Development
-- ⏳ Contribute to Open Source
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-</h3>
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
